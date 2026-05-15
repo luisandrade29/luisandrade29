@@ -37,12 +37,6 @@ Sistema de gestão médica em Java com interface Swing e JSON
 
 ---
 
-## 📊 GitHub Stats
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisandrade29&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-de-andrade-60241a247)
